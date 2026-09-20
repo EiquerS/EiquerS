@@ -32,12 +32,16 @@ Electromechanical Technician · Linux · Cybersecurity
 </p>
 
 <p>
-I'm interested in Linux, networking, cybersecurity
+-I'm interested in Linux, networking, cybersecurity
 and programming.
 </p>
 
 <p>
-  I also make music:
+-Pronouns: He/Him
+</p>
+
+<p>
+I also make music:
 </p>
 
 <a href="https://www.youtube.com/@Equiraze">
@@ -49,7 +53,7 @@ and programming.
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 |                                                   **Development**                                                   |                                                     **Linux & System**                                                     |                                                          **Software & Hardware**                                                         |
 | :-----------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
@@ -61,17 +65,7 @@ and programming.
 |           ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)           |                                                                                                                            |             ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge\&logo=blender\&logoColor=white)            |
 |    ![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge\&logo=neovim\&logoColor=white)   |                                                                                                                            |             ![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge\&logo=freecad\&logoColor=white)            |
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
