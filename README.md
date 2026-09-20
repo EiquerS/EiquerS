@@ -36,9 +36,6 @@ Electromechanical Technician · Linux · Cybersecurity
 and programming.
 </p>
 
-<p>
--Pronouns: He/Him
-</p>
 
 <p>
 I also make music:
