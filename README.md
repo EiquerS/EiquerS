@@ -25,7 +25,7 @@
 
 <td width="65%">
 
-<h1>Hey, I'm EiquerS 👋</h1>
+<h1>Hey, I'm EiquerS</h1>
 
 <p>
 Electromechanical Technician · Linux · Cybersecurity
@@ -37,16 +37,12 @@ and programming.
 </p>
 
 <p>
-Currently learning:
+  I also make music:
 </p>
 
-<ul>
-<li>C / Python</li>
-<li>Linux</li>
-<li>Networking</li>
-<li>Cybersecurity</li>
-</ul>
-
+<a href="https://www.youtube.com/@Equiraze">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 </td>
 </tr>
 </table>
@@ -64,14 +60,6 @@ Currently learning:
 | ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white) | ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge\&logo=virtualbox\&logoColor=white) | ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge\&logo=davinciresolve\&logoColor=white) |
 |           ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)           |                                                                                                                            |             ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge\&logo=blender\&logoColor=white)            |
 |    ![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge\&logo=neovim\&logoColor=white)   |                                                                                                                            |             ![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge\&logo=freecad\&logoColor=white)            |
-
-```text
-Languages    C · Python · Rust
-OS           Linux · Fedora
-Networking   CCNA
-Security     Security+ · CTFs
-Tools        Git · Neovim · VS Code
-```
 
 
 <!--
